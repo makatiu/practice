@@ -4,7 +4,7 @@ public class WarmUp {
 
 	public static void main(String[] args) {
 
-		String mark = "hi hello";
+		String mark = "hi hello2";
 		
 		
 		
